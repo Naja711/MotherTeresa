@@ -661,6 +661,7 @@ footer {
     align-items: center;
     justify-content: center;
     pointer-events: none;
+    opacity: 0;
 }
 .navbar.scrolled {
     background-color: var(--bg-white);
